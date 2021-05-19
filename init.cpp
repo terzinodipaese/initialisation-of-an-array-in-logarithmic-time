@@ -2,7 +2,7 @@
 
 using namespace std;
 
-//Initialize an array in logaritmic time
+//Initialize an array in logarithmic time
 template <typename T> void init(T *v, int len, T value)
 {
 	v[0] = value;
